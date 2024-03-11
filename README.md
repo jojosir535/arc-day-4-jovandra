@@ -4,7 +4,7 @@ Ini adalah repository program ExpressJS yang menghandle data movies.json.
 Panduan Program ExpressJS:
 
 Untuk menjalankan program ini:
-Jalankan intepreter Node.JS dengan command di terminal/cmd "node index.js". Pastikan index.js dan movies.json berada di folder sama.
+Jalankan intepreter Node.JS dengan command di terminal/cmd ``` node index.js ```. Pastikan index.js dan movies.json berada di folder sama.
 
 Untuk membaca file dari data JSON:
 Buka http://localhost:3000/movies pada browser
